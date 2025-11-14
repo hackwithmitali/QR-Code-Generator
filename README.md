@@ -11,7 +11,7 @@ It allows users to:
 6. Share via WhatsApp or Email
 
 Tech Stack:
-1. Python
+1. Frontend:- Python
 2. Flask
 3. HTML
 4. CSS
