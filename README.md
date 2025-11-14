@@ -10,7 +10,7 @@ It allows users to:
 5. Download QR as PNG/PDF
 6. Share via WhatsApp or Email
 
-Tech Stack
+Tech Stack:
 1. Python
 2. Flask
 3. HTML
@@ -19,5 +19,5 @@ Tech Stack
 6. Pillow
 7. ReportLab
 
-Live Project
+Live Project:
 https://qr-code-generator-96vt.onrender.com
