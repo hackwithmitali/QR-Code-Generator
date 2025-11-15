@@ -10,6 +10,7 @@ It allows users to instantly generate customized QR codes by entering any text o
 4. Allow customization with color, size, and logo
 
 **Features**
+
 It allows users to:
 1. Generate QR codes from text or URL
 2. Choose color
