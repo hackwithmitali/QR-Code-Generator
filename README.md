@@ -18,7 +18,6 @@ It allows users to:
 4. Add social media logos (YouTube, Instagram, LinkedIn)
 5. Download QR as PNG or PDF
 6. Share via WhatsApp or Email
-7. Fully responsive interface
 
 **Tech Stack**
 1. Frontend: HTML, CSS
