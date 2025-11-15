@@ -16,10 +16,9 @@ It allows users to:
 2. Choose color
 3. Select size (200px, 300px, 400px)
 4. Add social media logos (YouTube, Instagram, LinkedIn)
-5. Upload a custom logo
-6. Download QR as PNG or PDF
-7. Share via WhatsApp or Email
-8. Fully responsive interface
+5. Download QR as PNG or PDF
+6. Share via WhatsApp or Email
+7. Fully responsive interface
 
 **Tech Stack**
 1. Frontend: HTML, CSS
