@@ -1,4 +1,5 @@
 **QR Code Generator – Python Project**
+
 This project is a web-based QR Code Generator built using Python and Flask.
 It allows users to instantly generate customized QR codes by entering any text or URL.
 
